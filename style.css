@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 1.2rem;
+    margin: 2px;
+    background-color: burlywood;
+}
+
+td {
+    background-color: bisque;
+}
+.property {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.ruleset-example {
+    text-align: left;
+}
+
+.color-display {
+    color:blueviolet;
+}
+
+.font-family-display {
+    font-family: "Verdana", serif;
+}
+
+.font-size-display {
+    font-size: 10px;
+}
+
+.font-weight {
+    font-weight: bold;
+}
